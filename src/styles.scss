@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap/scss/bootstrap-reboot';
+@import '~bootstrap/scss/bootstrap-grid';
+
+$headerHeight: 60px;
+$footerHeight: 80px;
+
+footer {
+   position: absolute;
+   bottom: 0;    
+   height: $footerHeight;    
+   padding: 10px;
+   border-top: 1px solid rgba(0, 0, 0, 0.2);
+   box-sizing: border-box;
+}
+
+#main-content {    
+    padding-bottom: 10px;
+    overflow-y: auto;
+    position: absolute;
+    top: $headerHeight;
+    bottom: $footerHeight;
+    width: 100%;
+}

@@ -1,0 +1,43 @@
+[
+	{
+		"name": "grape",
+		"plural": "grapes",
+		"type": 1,
+		"meaning": "uvas",
+		"sentences": [
+			"I like eat grapes in the breakfast",
+			"My mother likes eats grapes with apples",
+			"The grapes are a little bit bitter"
+		],
+		"imageUrl": "http://cienciabio.com/wp-content/uploads/2013/04/uvas-negras.jpg",
+		"createdDate": ""
+	},
+	{
+		"name": "butter",
+		"plural": "butters",
+		"type": 1,
+		"meaning": "mantequilla",
+		"sentences": [
+			"I eat a bread with butter",
+			"The butter is not bitter",
+			"The butter is yellow",
+			"I don't know what color is the butter"
+		],
+		"imageUrl": "http://www.butterup.com.au/wp-content/uploads/DNG4180.jpg",
+		"createdDate": ""
+	},
+	{
+		"name": "couple",
+		"plural": "couples",
+		"type": 1,
+		"meaning": "pareja",
+		"sentences": [
+			"I eat a bread with butter",
+			"The butter is not bitter",
+			"The butter is yellow",
+			"I don't know what color is the butter"
+		],
+		"imageUrl": "https://www.lavidalucida.com/wp-content/uploads/2015/02/pareja-2.jpg",
+		"createdDate": ""
+	}
+]
